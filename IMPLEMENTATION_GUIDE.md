@@ -6,7 +6,7 @@ A citizen science wildlife platform where users log animal sightings with rich s
 
 **What makes it different from iNaturalist:** WildIndex is characterization-first. Users don't just log "I saw a capybara" — they describe size, behavior, habitat context, health condition, and concerns. The platform builds searchable, community-sourced species profiles from structured field data.
 
-**Repo:** `github.com/yourusername/wildindex`
+**Repo:** `https://github.com/rafaelmelo007/Tamarindo.WildIndex`
 
 ---
 
